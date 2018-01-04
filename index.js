@@ -11,6 +11,6 @@ value) {
 }
 
 function deleteFromObjectByKey(object, key) {
-  delete 
+  delete object[key]
   
 }
